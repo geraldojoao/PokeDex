@@ -12,7 +12,7 @@ Uma Pokédex completa desenvolvida com Flutter, exibindo uma lista de Pokémon c
 
 ## 🖼️ Prévia
 
-![demo](link-para-gif-ou-screenshot-do-app)
+![demo](https://github.com/geraldojoao/PokeDex/blob/versoes/Capturar.PNG)
 
 ## 🚀 Tecnologias Utilizadas
 
